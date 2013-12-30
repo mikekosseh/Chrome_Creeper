@@ -13,6 +13,6 @@ Usage
 ------
 c:\ChromeCreeper.exe
 Select option 1 to connect to the DB
-Select options 2 - 6 depending on what you want to enumerate
-Select option 7 to quit the application.
+Select options 2 - 7 depending on what you want to enumerate
+Select option 8 to quit the application.
 
